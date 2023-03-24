@@ -1,4 +1,12 @@
-### Hi there 👋
+Hi 👋 My name is Nikolay Dimitrov
+
+Front End Developer
+
+- 🌍 I'm based in Sofia, Bulgaria
+- 🖥️ See my portfolio at
+- 🧠 Currently learning React
+- 🤝 I'm open to collaborating on interesting projects as a developer
+
 
 <!--
 **ndimitrov10/ndimitrov10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
